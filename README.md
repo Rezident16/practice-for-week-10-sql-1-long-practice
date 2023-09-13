@@ -1,1 +1,0 @@
-# practice-for-week-10-sql-1-long-practice
